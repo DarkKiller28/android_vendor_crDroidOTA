@@ -1,28 +1,28 @@
 {
     "response": [
         {
-            "maintainer": "Vikas (optimus)",
+            "maintainer": "ℝ𝕖𝕧𝕖𝕣𝕤𝕖𝕕ℝ𝕦𝕝𝕖𝕣༆𖣘(Soner)",
             "oem": "Poco",
             "device": "Poco F6",
-            "filename": "crDroidAndroid-16.0-20260711-peridot-v12.11.zip",
-            "download": "https://sourceforge.net/projects/crdroid/files/peridot/12.x/crDroidAndroid-16.0-20260711-peridot-v12.11.zip/download",
+            "filename": "",
+            "download": "",
             "timestamp": 1783781314,
             "md5": "c5f712a4bb7a4576c7a774a60772c9a0",
             "sha256": "5b6a75e9f19c7b79a9abe80829fac00f389fc1689c11b1578e45097b8934bb80",
             "size": 2953826151,
             "version": "12.11",
-            "buildtype": "Weeklies",
-            "forum": "https://xdaforums.com/t/rom-official-peridot-poco-f6-16-0-crdroidandroid-v12-x.4760633",
+            "buildtype": "Community",
+            "forum": "",
             "gapps": "https://nikgapps.com/crdroid-full-official",
             "firmware": "https://xmfirmwareupdater.com/hyperos/peridot/",
             "modem": "",
             "bootloader": "",
             "recovery": "https://sourceforge.net/projects/crdroid/files/peridot/12.x/recovery/",
-            "paypal": "https://www.paypal.me/vikasyaduvanshii",
-            "telegram": "https://t.me/crdroidperidot",
-            "dt": "https://github.com/crdroidandroid/android_device_xiaomi_peridot",
+            "paypal": "http://buymeacoffee.com/reversedruler",
+            "telegram": "https://t.me/reversedrulerchat",
+            "dt": "",
             "common-dt": "",
-            "kernel": "https://gitlab.com/crdroidandroid/android_kernel_xiaomi_sm8635"
+            "kernel": ""
         }
     ]
 }
